@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a finance website & a job listing website<br>🌱 I’m currently learning Typescript & React<br>💬 Ask me about Python & R<br>⚡ Fun fact I had worked on more than 300 web design projects at 17 years old
+<br> how to reach me: vidarsinvestigations@gmail.com
 
 
 # 💻 Tech Stack:
@@ -18,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=01010110-Code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
