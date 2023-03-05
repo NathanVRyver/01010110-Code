@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a finance website & a job listing website<br>🌱 I’m currently learning Typescript & React<br>💬 Ask me about Python & R<br>⚡ Fun fact I had worked on more than 300 web design projects at 17 years old
-<br> how to reach me: vidarsinvestigations@gmail.com
+<br> 📧 how to reach me: vidarsinvestigations@gmail.com
 
 
 # 💻 Tech Stack:
