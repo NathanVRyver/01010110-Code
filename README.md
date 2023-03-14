@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 My name is Bahaa Tantaoui, I'm a software engineer from Morocco <br>
-🔭 I’m currently working on a finance website & a job listing website<br>🌱 I’m currently learning Typescript & React<br>💬 Ask me about Python & R<br>⚡ Fun fact I had worked on more than 300 web design projects at 17 years old
+🔭 I’m currently working on a semmantic search web application & a movie recommendation website<br>🌱 I’m currently learning Typescript & React<br>💬 Ask me about Python, Javascript & C<br>⚡ Fun fact I had worked on more than 300 web design projects at 17 years old
 <br> 📧 how to reach me: vidarsinvestigations@gmail.com
 
 
