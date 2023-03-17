@@ -22,3 +22,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=01010110-Code&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# More About Me 
+When I'm not coding, I like to exercise my mind in other ways. You can usually find me buried in a book about philosophy, logic, or history, trying to make sense of the world around me. But when I need to take a break from all that intellectual heavy lifting, I like to unwind with a game of chess. It's the perfect way to challenge my brain and keep my strategic thinking sharp.
+
+And when I'm in the mood for some good old-fashioned escapism, you'll find me nose-deep in a crime novel. I can't resist a good mystery, especially when it involves the master detective himself, Sherlock Holmes. There's just something about the intricate puzzles and twists and turns of the plots that keeps me coming back for more.
+
+All in all, I think my diverse interests outside of coding help me stay balanced and keep my brain firing on all cylinders. Who knows, maybe my love of crime novels will even inspire me to create a new kind of programming language that solves problems in an entirely new way. Hey, a guy can dream, right?
