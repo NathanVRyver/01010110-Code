@@ -4,7 +4,8 @@
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: A Legal Documents Semantic Search Application<br><br>🌱 I’m currently learning: React & NextJs<br><br>👯 I’m looking to collaborate on: A Legal Documents Semantic Search Application<br><br>💬 Ask me about:  C, Javascript<br><br>📫 How to reach me: vidarsinvestigations@gmail.com<br><br>🍁 Favorite quote by my favorite philosopher: "The only true wisdom is in knowing you know nothing."
+🔭 I’m currently working on: A Legal Documents Semantic Search Application<br><br>🌱 I’m currently learning: React & NextJs<br><br>👯 I’m looking to collaborate on: A Legal Documents Semantic Search Application<br><br>💬 Ask me about:  C, Javascript<br><br>📫 How to reach me: tantaouisoftware@gmail.com
+<br><br>🍁 Favorite quote by my favorite philosopher: "The only true wisdom is in knowing you know nothing."
 
 
 # 💻 Tech Stack:
