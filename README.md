@@ -1,4 +1,5 @@
 ![banner](/1500x500.jpeg?raw=true "banner")
+<a href="https://app.daily.dev/V-Code"><img src="https://api.daily.dev/devcards/884e4a73ed634b60b9c1cc9c268fd802.png?r=gxz" width="400" alt="Bahaa Tantaoui's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Bahaa Tantaoui</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
