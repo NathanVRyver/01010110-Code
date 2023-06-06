@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/V-Code"><img src="https://api.daily.dev/devcards/884e4a73ed634b60b9c1cc9c268fd802.png?r=gxz" width="400" alt="Bahaa Tantaoui's Dev Card"/></a>
 
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">Bahaa Tantaoui - A passionate frontend developer from Morocco</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on: A Legal Documents Semantic Search Application<br><br>🌱 I’m currently learning: React & NextJs<br><br>👯 I’m looking to collaborate on: A Legal Documents Semantic Search Application<br><br>💬 Ask me about:  C, Javascript<br><br>📫 How to reach me: tantaouisoftware@gmail.com
