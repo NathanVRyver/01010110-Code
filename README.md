@@ -1,10 +1,8 @@
 <a href="https://app.daily.dev/V-Code"><img src="https://api.daily.dev/devcards/884e4a73ed634b60b9c1cc9c268fd802.png?r=gxz" width="400" alt="Bahaa Tantaoui's Dev Card"/></a>
 
-<h3 align="center">Bahaa Tantaoui - A passionate frontend developer from Morocco</h3>
+<h3 align="center">Bahaa Tantaoui - Full Stack Dev (FE Heavy)</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on: A Legal Documents Semantic Search Application<br><br>🌱 I’m currently learning: Rust & Svelte<br><br>👯 I’m looking to collaborate on: A Legal Documents Semantic Search Application<br><br>💬 Ask me about:  C, Javascript<br><br>📫 How to reach me: tantaouisoftware@gmail.com
-<br><br>🍁 Favorite quote by my favorite philosopher: "The only true wisdom is in knowing you know nothing."
+📫 How to reach me: tantaouisoftware@gmail.com
 
 
 # 💻 Tech Stack:
@@ -12,9 +10,3 @@
 
 
 
-# 🕵️‍♂️ More About Me 
-When I'm not coding, I like to exercise my mind in other ways. You can usually find me buried in a book about philosophy, logic, or history, trying to make sense of the world around me. But when I need to take a break from all that intellectual heavy lifting, I like to unwind with a game of chess. It's the perfect way to challenge my brain and keep my strategic thinking sharp.
-
-And when I'm in the mood for some good old-fashioned escapism, you'll find me nose-deep in a crime novel. I can't resist a good mystery, especially when it involves the master detective himself, Sherlock Holmes. There's just something about the intricate puzzles and twists and turns of the plots that keeps me coming back for more.
-
-All in all, I think my diverse interests outside of coding help me stay balanced and keep my brain firing on all cylinders. Who knows, maybe my love of crime novels will even inspire me to create a new kind of programming language that solves problems in an entirely new way. Hey, a guy can dream, right?
